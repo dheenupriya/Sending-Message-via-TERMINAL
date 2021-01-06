@@ -1,4 +1,4 @@
-# Sending-Message-via-TERMINAL
+# Sending-Message-via-TERMINAL using PYTHON
 Sending Message fron unknown number via Terminal using Textbelt
 
 Execute the following Commands:
