@@ -13,6 +13,9 @@ python3
 
 Type the following Code in Terminal and Execute:
 
+*In phone no - include country code*
+***
+
 import requests
 resp=requests.post('https://textbelt.com/text',{
   'phone':'phoneno.',
@@ -20,4 +23,6 @@ resp=requests.post('https://textbelt.com/text',{
   'key':'textbelt',
 })
 print(resp.json())
+
+***
 
